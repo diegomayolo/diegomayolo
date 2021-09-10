@@ -15,7 +15,7 @@
 
 💼 Desenvolvedor de Software Trainee na Interact Solutions
 </br>
-📌 Rio Grande do Sul, Brasil
+📌 Arroio do Meio, Rio Grande do Sul, Brasil
 
 </br></br>
 ### Linguagens e Tecnologias
