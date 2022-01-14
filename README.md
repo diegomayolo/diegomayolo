@@ -28,7 +28,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
 </p>
 </div>
 <hr />
-<div grid-template-columns="1fr 1fr">
+<div display="grid" grid-template-columns="1fr 1fr">
 <h3>Linguagens e Ferramentas</h3>
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
