@@ -1,5 +1,6 @@
 <h1 align="center"> Seja bem vindo e bem vinda! 👋</h1>
 
+<hr/>
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
