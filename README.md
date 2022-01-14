@@ -12,6 +12,7 @@
 </br>
 
 </br></br>
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
 💼 Desenvolvedor de Software | Interact Solutions
 </br>
