@@ -7,7 +7,7 @@
 Me chamo <b> Diego Luis Mayolo</b>.
 </p>
 <a href="https://www.instagram.com/diegomayolo/" target="_blank">
-  <img height="180em"align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
 💼 Desenvolvedor de Software | Interact Solutions</br>
@@ -27,7 +27,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=dark&title_color=268bd2" alt="Diego Mayolo" />
 </p>
 </div>
-<h3 align="center">Linguagens e Ferramentas</h3>
+<h3>Linguagens e Ferramentas</h3>
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
