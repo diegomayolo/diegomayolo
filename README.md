@@ -23,9 +23,9 @@ Me chamo <b> Diego Luis Mayolo</b>.
   </p>
 </br></br>
 
-<span align="center">
+<h3 align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
-</span>
+</h3>
 <br /><br /><br /><br /><br /><br />
 <h2 align="center">Linguagens e Ferramentas</h2>
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
