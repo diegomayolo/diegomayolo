@@ -22,7 +22,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
   </p>
 </br></br>
 
-<div style="display: inline-block align-items: center><br>
+<div style="display: inline-block><br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=dark&title_color=268bd2" alt="Diego Mayolo" />
 </p>
