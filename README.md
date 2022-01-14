@@ -29,10 +29,10 @@ Me chamo <b> Diego Luis Mayolo</b>.
 </div>
 <h3 align="center">Linguagens e Ferramentas</h3>
 <div style="display: inline-block">
-  <img align="center" height="30" width="60" src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+  <img align="center" height="30" width="40" src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img align="center" height="30" width="40" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img align="center" height="30" width="40" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
