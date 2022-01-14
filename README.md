@@ -28,6 +28,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
 </p>
 </div>
 <hr />
+<div grid-template-columns="1fr 1fr">
 <h3>Linguagens e Ferramentas</h3>
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -42,3 +43,9 @@ Me chamo <b> Diego Luis Mayolo</b>.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+  <h3>Contato</h3>
+  <div>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </div>
+  
