@@ -24,8 +24,6 @@ Me chamo <b> Diego Luis Mayolo</b>.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-</br></br>
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 </br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
