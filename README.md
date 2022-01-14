@@ -1,13 +1,14 @@
-### Olá 👋, eu sou o Diego
+<h1 align="center"> Seja bem vindo e bem vindo! 👋</h1>
 
-<a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/diegomayolo/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/diego.mayolo">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<hr />
+<a href="https://github.com/diegomayolo" target="_blank">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a><br />
+<a href="https://www.instagram.com/diegomayolo/" target="_blank">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a><br />
+<a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 </br>
 
