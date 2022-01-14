@@ -1,5 +1,5 @@
 <h1 align="center"> Seja bem-vindo e bem-vinda! 👋</h1>
-
+<hr />
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a><br />
@@ -27,6 +27,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=dark&title_color=268bd2" alt="Diego Mayolo" />
 </p>
 </div>
+<hr />
 <h3>Linguagens e Ferramentas</h3>
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
