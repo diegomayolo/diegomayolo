@@ -19,6 +19,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
 </br>
 📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.
 </p>
+</br>
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
