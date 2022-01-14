@@ -13,20 +13,22 @@ Me chamo <b> Diego Luis Mayolo</b>.
 <p align="left" >
   💼 Desenvolvedor de Software | Interact Solutions
 </br>
+  📌 Arroio do Meio, Rio Grande do Sul, Brasil
   </p>
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-  📌 Arroio do Meio, Rio Grande do Sul, Brasil
+  💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 </br>
+📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.
   </p>
 
 </br></br>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-📌 Arroio do Meio, Rio Grande do Sul, Brasil
 </br>
+
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 </br>
 📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.
