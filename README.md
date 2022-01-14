@@ -23,12 +23,12 @@ Me chamo <b> Diego Luis Mayolo</b>.
 📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.</br>
   </p>
 
-</br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
-</p>
+
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomayolo&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Diego Mayolo" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
 </p>
 
 </br></br>
