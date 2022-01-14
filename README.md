@@ -1,13 +1,12 @@
 <h1 align="center"> Seja bem vindo e bem vinda! 👋</h1>
 
-<hr/>
+<hr />
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-
+</a><br />
 <p align="left" >
 Me chamo <b> Diego Luis Mayolo</b>.
-  </p>
+</p>
 <a href="https://www.instagram.com/diegomayolo/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
@@ -17,7 +16,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
 </p>
 <a href="https://github.com/diegomayolo" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
+</a>
 <p align="left" >
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;</br>
 📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.</br>
@@ -26,9 +25,6 @@ Me chamo <b> Diego Luis Mayolo</b>.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomayolo&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Diego Mayolo" />
 </p>
 
 </br></br>
