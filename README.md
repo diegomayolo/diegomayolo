@@ -4,19 +4,27 @@
 <a href="https://github.com/diegomayolo" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
+<p align="left" >
+Me chamo <b> Diego Luis Mayolo</b>.
+  </p>
 <a href="https://www.instagram.com/diegomayolo/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
+<p align="left" >
+  💼 Desenvolvedor de Software | Interact Solutions
+</br>
+  </p>
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<p align="left" >
+  📌 Arroio do Meio, Rio Grande do Sul, Brasil
 </br>
+  </p>
 
 </br></br>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-💼 Desenvolvedor de Software | Interact Solutions
-</br>
 📌 Arroio do Meio, Rio Grande do Sul, Brasil
 </br>
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
