@@ -1,4 +1,4 @@
-<h1 align="center"> Seja bem vindo e bem vinda! 👋</h1>
+<h1 align="center"> Seja bem-vindo e bem-vinda! 👋</h1>
 
 <hr />
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
@@ -23,9 +23,9 @@ Me chamo <b> Diego Luis Mayolo</b>.
   </p>
 </br></br>
 
-<p align="center">
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
-</p>
+</div>
 <br /><br /><br /><br /><br /><br />
 <h2 align="center">Linguagens e Ferramentas</h2>
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
