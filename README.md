@@ -19,15 +19,15 @@ Me chamo <b> Diego Luis Mayolo</b>.
 </a>
 <p align="left" >
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;</br>
-📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.</br>
+📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.
   </p>
-</br></br>
+<br /><br />
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
 </p>
 
-</br></br>
+<br /><br />
 ### Linguagens e Tecnologias
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
