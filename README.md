@@ -11,28 +11,21 @@ Me chamo <b> Diego Luis Mayolo</b>.
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-  💼 Desenvolvedor de Software | Interact Solutions
+💼 Desenvolvedor de Software | Interact Solutions
 </br>
-  📌 Arroio do Meio, Rio Grande do Sul, Brasil
-  </p>
-<a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<p align="left" >
-  💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+📌 Arroio do Meio, Rio Grande do Sul, Brasil
 </br>
-📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.
-  </p>
-
-</br></br>
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
-
-</br>
-
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 </br>
 📫 Se quiser pode enviar um email para diego.mayolo@outlook.com.
+</p>
+<a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
+</br></br>
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+</br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=graywhite&title_color=268bd2" alt="Diego Mayolo" />
 </p>
