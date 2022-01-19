@@ -12,7 +12,7 @@ Me chamo <b> Diego Luis Mayolo</b>.
 <p align="left" >
 💼 Desenvolvedor de Software | Interact Solutions</br>
 📌 Arroio do Meio, Rio Grande do Sul, Brasil</br>
-➡️ Não deixe de conferir o meu <a href="https://diegomayolo.github.io/">porfólio</a>
+🎓 Não deixe de conferir o meu <a href="https://diegomayolo.github.io/">porfólio</a>
 </p>
 <a href="https://github.com/diegomayolo" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
