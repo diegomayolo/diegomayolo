@@ -19,7 +19,8 @@ Me chamo <b> Diego Luis Mayolo</b>.
 </a>
 <p align="left" >
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;</br>
-📫 Se quiser pode enviar um email para <a href="mailto:diego.mayolo@outlook.com?Subject=Título%20da%20mensagem">diego.mayolo@outlook.com</a>
+📫 Se quiser pode enviar um email para <a href="mailto:diego.mayolo@outlook.com?Subject=Título%20da%20mensagem">diego.mayolo@outlook.com</a></br>
+📞 Telefone para contato: <a href="tel:+5551994586794">+55 51 99458-6794</a>
   </p>
 </br></br>
 
