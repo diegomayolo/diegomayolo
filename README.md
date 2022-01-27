@@ -21,22 +21,21 @@ Me chamo <b> Diego Luis Mayolo</b>.
   </p>
 </br></br>
 
-<div style="display: inline-block"><br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=dark&title_color=268bd2" alt="Diego Mayolo" />
-</p>
+<div style="display: grid; align: center;"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=dark&title_color=268bd2" alt="Diego Mayolo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomayolo&show_icons=true&theme=dark&title_color=268bd2&include_all_commits=true&count_private=true"/>
 </div>
 <hr />
 <h3>Linguagens e Ferramentas</h3>
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <!-–<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
