@@ -1,22 +1,18 @@
-<h1 align="center"> Seja bem-vindo e bem-vinda! 👋</h1>
+<h1 align="center"> Me chamo <b> Diego Luis Mayolo</b>.</h1>
 <hr />
+
 <a href="https://www.linkedin.com/in/diego-mayolo-8a3a3210a/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Me chamo <b> Diego Luis Mayolo</b>.
-</p>
-<a href="https://www.instagram.com/diegomayolo/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
-<p align="left" >
-💼 Desenvolvedor de Software | Interact Solutions</br>
+💼 Desenvolvedor de Software | <a href="https://www.interactsolutions.com/" target="_blank">Interact Solutions</a></br>
 📌 Arroio do Meio, Rio Grande do Sul, Brasil</br>
-🎓 Não deixe de conferir o meu <a href="https://diegomayolo.github.io/">porfólio</a>
-</p>
+🎓 No momento estou estudando Javascript, React e NodeJs
+</p><br />
+
 <p align="left" >
-💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;</br>
-📫 Se quiser pode enviar um email para <a href="mailto:diego.mayolo@outlook.com?Subject=Título%20da%20mensagem">diego.mayolo@outlook.com</a></br>
+💬 Não deixe de conferir o meu <a href="https://diegomayolo.github.io/" target="_blank">porfólio</a></br>
+📫 Se quiser pode enviar um email para <a href="mailto:diego.mayolo@outlook.com?Subject=Título%20da%20mensagem" target="_blank">diego.mayolo@outlook.com</a></br>
 📞 Telefone para contato: <a href="tel:+5551994586794">+55 51 99458-6794</a>
   </p>
 </br></br>
