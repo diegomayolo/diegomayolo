@@ -14,9 +14,6 @@ Me chamo <b> Diego Luis Mayolo</b>.
 📌 Arroio do Meio, Rio Grande do Sul, Brasil</br>
 🎓 Não deixe de conferir o meu <a href="https://diegomayolo.github.io/">porfólio</a>
 </p>
-<a href="https://github.com/diegomayolo" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>
 <p align="left" >
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;</br>
 📫 Se quiser pode enviar um email para <a href="mailto:diego.mayolo@outlook.com?Subject=Título%20da%20mensagem">diego.mayolo@outlook.com</a></br>
@@ -39,9 +36,8 @@ Me chamo <b> Diego Luis Mayolo</b>.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <!-–<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
