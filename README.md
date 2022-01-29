@@ -12,14 +12,13 @@
 
 <p align="left" >
 💬 Não deixe de conferir o meu <a href="https://diegomayolo.github.io/" target="_blank">porfólio</a></br>
-📫 Se quiser pode enviar um email para <a href="mailto:diego.mayolo@outlook.com?Subject=Título%20da%20mensagem" target="_blank">diego.mayolo@outlook.com</a></br>
+📫 Email para contato: <a href="mailto:diego.mayolo@outlook.com?Subject=Título%20da%20mensagem" target="_blank">diego.mayolo@outlook.com</a></br>
 📞 Telefone para contato: <a href="tel:+5551994586794">+55 51 99458-6794</a>
   </p>
 </br></br>
 
 <div style="display: grid; align: center;"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=dark&title_color=268bd2" alt="Diego Mayolo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomayolo&show_icons=true&theme=dark&title_color=268bd2&include_all_commits=true&count_private=true"/>
 </div>
 <hr />
 <h3>Linguagens e Ferramentas</h3>
