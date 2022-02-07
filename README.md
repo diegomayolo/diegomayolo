@@ -17,12 +17,12 @@
   </p>
 </br></br>
 
-<div style="display: grid; align: center;"><br>
+<div style="display: inline-block" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomayolo&layout=compact&theme=dark&title_color=268bd2" alt="Diego Mayolo" />
 </div>
 <hr />
-<h3>Linguagens e Ferramentas</h3>
-<div style="display: inline-block">
+<div style="display: inline-block" align="center">
+  <h3>Linguagens e Ferramentas</h3>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <!-–<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
